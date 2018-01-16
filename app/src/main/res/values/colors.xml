@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="toolbarColor">#87CEFA</color>
+    <color name="colorPrimaryDark">#eeeeee</color>
+    <color name="colorAccent">#35B8FB</color>
+    <color name="While">#fff</color>
+    <color name="selectTabTextColor">#2C97DE</color>
+    <color name="tabTextColor">#66000000</color>
+    <color name="touming">#00000000</color>
+</resources>
