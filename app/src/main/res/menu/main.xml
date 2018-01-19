@@ -3,7 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item android:id="@+id/mu_setting"
-        android:title="设置"
+        android:title=""
+        app:actionLayout="@layout/menu_setting_layout"
         app:showAsAction="always"/>
 
     <item android:id="@+id/mu_search"
